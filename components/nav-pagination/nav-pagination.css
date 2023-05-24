@@ -3,4 +3,5 @@
   place-items: center;
   background-color: var(--color-water-10);
   font-size: 1.2rem;
+  text-align: center;
 }
