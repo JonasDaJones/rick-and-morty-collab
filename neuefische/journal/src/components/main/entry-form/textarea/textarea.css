@@ -1,0 +1,10 @@
+.textarea {
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  min-height: 7em;
+  margin-bottom: 2em;
+}
+
+label {
+  color: darkgray;
+}
